@@ -1,2 +1,9 @@
 # Remove_ShareWithSkype
+
 Deletes Share With Skype option from context menu in Windows.
+
+# Use
+
+Launch Powershell.exe with Administrator rights and run command below.
+
+```Remove-ItemProperty -path "HKLM:\SOFTWARE\Classes\PackagedCom\Package\Microsoft.SkypeApp_15.73.124.0_x86__kzf8qxf38zg5c\Class\{776DBC8D-7347-478C-8D71-791E12EF49D8}" -Name DllPath```
