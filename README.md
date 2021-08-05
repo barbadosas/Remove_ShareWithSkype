@@ -2,6 +2,8 @@
 
 Deletes Share With Skype option from context menu in Windows.
 
+![alt text](https://github.com/barbadosas/Remove_ShareWithSkype/blob/main/whatmustbegone.jpg "Logo Title Text 1")
+
 # Use
 
 Launch Powershell.exe with Administrator rights and run command below.
